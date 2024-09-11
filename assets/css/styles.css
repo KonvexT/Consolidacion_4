@@ -1,0 +1,31 @@
+#titulo {
+    text-align: center;
+    margin-bottom: 40px;
+    font-weight: bold;
+}
+
+.datos {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    width: 300px;
+    text-align: center;
+}
+
+.datos h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.datos p {
+    font-size: 18px;
+    margin: 5px 0;
+    margin-bottom: 10px;
+}
+
+.linea {
+    border-top: 1px solid #ddd;
+    margin: 15px 0;
+}
